@@ -1,0 +1,15 @@
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\bin\Debug\net6.0\fundamentos.exe
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\bin\Debug\net6.0\fundamentos.deps.json
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\bin\Debug\net6.0\fundamentos.runtimeconfig.json
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\bin\Debug\net6.0\fundamentos.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\bin\Debug\net6.0\fundamentos.pdb
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\obj\Debug\net6.0\fundamentos.csproj.AssemblyReference.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\obj\Debug\net6.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\obj\Debug\net6.0\fundamentos.AssemblyInfoInputs.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\obj\Debug\net6.0\fundamentos.AssemblyInfo.cs
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\obj\Debug\net6.0\fundamentos.csproj.CoreCompileInputs.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\obj\Debug\net6.0\fundamentos.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\obj\Debug\net6.0\refint\fundamentos.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\obj\Debug\net6.0\fundamentos.pdb
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\obj\Debug\net6.0\fundamentos.genruntimeconfig.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\fundamentos\obj\Debug\net6.0\ref\fundamentos.dll

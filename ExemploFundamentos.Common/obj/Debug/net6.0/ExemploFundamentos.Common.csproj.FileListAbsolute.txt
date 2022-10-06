@@ -1,0 +1,12 @@
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.deps.json
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploFundamentos.Common\bin\Debug\net6.0\ExemploFundamentos.Common.pdb
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.AssemblyReference.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.AssemblyInfo.cs
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploFundamentos.Common\obj\Debug\net6.0\refint\ExemploFundamentos.Common.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploFundamentos.Common\obj\Debug\net6.0\ExemploFundamentos.Common.pdb
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploFundamentos.Common\obj\Debug\net6.0\ref\ExemploFundamentos.Common.dll
