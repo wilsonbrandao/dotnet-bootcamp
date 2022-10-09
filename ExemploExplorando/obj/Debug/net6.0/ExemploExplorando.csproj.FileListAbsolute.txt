@@ -1,0 +1,15 @@
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.exe
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.deps.json
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.runtimeconfig.json
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.pdb
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.AssemblyReference.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfoInputs.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfo.cs
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\refint\ExemploExplorando.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
