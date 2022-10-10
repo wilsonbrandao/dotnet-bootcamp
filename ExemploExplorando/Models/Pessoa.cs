@@ -20,6 +20,14 @@ namespace ExemploExplorando.Models
             this._idade = idade;
         }
 
+        //Desconstrutor - retira os atributos do obj e salva 
+        //nas variaveis com prefixo "out" passadas como paramento
+        public void Deconstruct(out string nome,out string sobrenome)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
+        }
+
         private string _nome;
         private int _idade;
 

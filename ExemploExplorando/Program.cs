@@ -8,10 +8,48 @@ using System.Globalization; //format region
 // Pilhas();
 // Dictionary();
 // TupleExemplo();
+// TupleComMetodo();
+// ExemploDeconstruct();
+ifTernario();
 
-TupleComMetodo();
+void ifTernario()
+{
+    int numero = 20;
+    bool ehPar = false;
 
-void TupleComMetodo(){
+    ehPar = numero % 2 == 0;
+    Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "impar"));
+
+
+    if (numero % 2 == 0)
+    {
+        Console.WriteLine($"O número {numero} é par");
+    }
+    else
+    {
+        Console.WriteLine($"O número {numero} é impar");
+    }
+}
+
+
+
+
+
+
+
+
+/*
+void ExemploDeconstruct()
+{
+    Pessoa pessoa = new Pessoa("Wilson", "Brandão");
+
+    (string nome, string sobrenome) = pessoa;
+
+    Console.WriteLine($"{nome} {sobrenome}");
+}
+
+void TupleComMetodo()
+{
     LeituraArquivo arquivo = new LeituraArquivo();
 
     //var assume tipos retornados pela tupla
@@ -36,26 +74,6 @@ void TupleComMetodo(){
     
 }
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-
 void TupleExemplo()
 {
     //  Tuplas são estrutura de dados que podem armazerar valores com tipos distintos
@@ -66,7 +84,7 @@ void TupleExemplo()
     //Outras formas de declarar uma Tupla
     //desvantagem de não poder nomear tipos
     ValueTuple<int, string, string, decimal> tupla2 = (2, "Stefany", "Oliveira", 1.70M);
-    var tupla3 = Tuple.Create(3, "Benedita", "Conceição", 1.65M);
+    var tupla3 = Tuple.Create(3, "Maria", "José", 1.65M);
 
     Console.WriteLine($"id:  {tupla.Id}");
     Console.WriteLine($"Nome:  {tupla.Nome}");
@@ -133,7 +151,6 @@ void Dictionary()
 
 }
 
-
 void Pilhas() 
 {
     //Classe stack cria uma pilha - LIFO
@@ -163,7 +180,6 @@ void Pilhas()
 
 }
 
-
 void Filas()
 {
     //Classe Queue cria uma fila - FIFO
@@ -191,8 +207,6 @@ void Filas()
         Console.WriteLine(item);
     }
 }
-
-
 
 void TesteTryCatch()
 {
@@ -318,5 +332,9 @@ void FormatandoStrings()
     p1.Idade = 20;
     p1.Apresentar();
 }
+
+
+
+
 
 */
