@@ -1,0 +1,15 @@
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\bin\Debug\net6.0\DesafioExplorando.exe
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\bin\Debug\net6.0\DesafioExplorando.deps.json
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\bin\Debug\net6.0\DesafioExplorando.runtimeconfig.json
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\bin\Debug\net6.0\DesafioExplorando.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\bin\Debug\net6.0\DesafioExplorando.pdb
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\obj\Debug\net6.0\DesafioExplorando.csproj.AssemblyReference.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\obj\Debug\net6.0\DesafioExplorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\obj\Debug\net6.0\DesafioExplorando.AssemblyInfoInputs.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\obj\Debug\net6.0\DesafioExplorando.AssemblyInfo.cs
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\obj\Debug\net6.0\DesafioExplorando.csproj.CoreCompileInputs.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\obj\Debug\net6.0\DesafioExplorando.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\obj\Debug\net6.0\refint\DesafioExplorando.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\obj\Debug\net6.0\DesafioExplorando.pdb
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\obj\Debug\net6.0\DesafioExplorando.genruntimeconfig.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioExplorando\obj\Debug\net6.0\ref\DesafioExplorando.dll
