@@ -13,3 +13,5 @@ D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\Exemp
 D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
 D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
 D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CopyComplete

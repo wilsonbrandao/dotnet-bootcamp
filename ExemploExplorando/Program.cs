@@ -1,5 +1,41 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization; //format region
+using Newtonsoft.Json;
+
+
+
+
+
+int numero = 20;
+bool ehPar = false;
+
+ehPar = numero.EhPar();
+Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "impar"));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // TrabalhandoComDatas();
 // FormatandoNumeros();
 // FormatandoStrings();
@@ -10,7 +46,124 @@ using System.Globalization; //format region
 // TupleExemplo();
 // TupleComMetodo();
 // ExemploDeconstruct();
-ifTernario();
+// ifTernario();
+// exemploSerialize();
+// exemploDeserialize();
+// TiposNulos();
+// ObjTipoAnonimos();
+// variavelDinamica();
+// ClasseGenerica();
+
+
+
+/*
+void ClasseGenerica()
+{
+    //Instanciando classe genérica<T>
+    MeuArray<int> arrayInteiro = new MeuArray<int>();
+    arrayInteiro.AdcionarElementoArray(30);
+    System.Console.WriteLine(arrayInteiro[0]);
+
+    MeuArray<string> arrayString = new MeuArray<string>();
+    arrayString.AdcionarElementoArray("texto");
+    System.Console.WriteLine(arrayString[0]);
+}
+
+void variavelDinamica()
+{
+    dynamic variavelDinamica = 4;
+    System.Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()} valor: {variavelDinamica}");
+
+    variavelDinamica = "Texto";
+    System.Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()} valor: {variavelDinamica}");
+
+    variavelDinamica = true;
+    System.Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()} valor: {variavelDinamica}");
+
+    variavelDinamica = new Pessoa();
+    System.Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()} valor: {variavelDinamica}");
+}
+
+void ObjTipoAnonimos()
+{
+    //Declaração de tipo anônimo
+    var tipoAnonimo = new { Nome = "Leonardo", Sobrenome = "Buta", Altura = 1.80 };
+
+    Console.WriteLine($"Nome: {tipoAnonimo.Nome}");
+    Console.WriteLine($"Sobrenome: {tipoAnonimo.Sobrenome}");
+    Console.WriteLine($"Altura: {tipoAnonimo.Altura}");
+    //=============================================================================
+    string conteudoArquivoJson = File.ReadAllText("Assets/vendas.json");
+    List<Venda> listaVendas = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivoJson);
+    
+
+    var listaAnonimo = listaVendas.Select(x => new { x.Produto, x.Preco });
+    Console.WriteLine($"Tipo da lista anonima: {listaAnonimo.GetType()}");
+
+    foreach (var venda in listaAnonimo)
+    {
+        Console.WriteLine($"Produto: {venda.Produto}, Preco: {venda.Preco}");
+    }
+}
+
+void TiposNulos()
+{
+    //Para fazer com que uma variável aceite valores nulos 
+    //colocamos ? após a declaração de tipo
+    bool? desejaReceberEmail = true;
+
+    // sempre que trabalharmos com tipos nulos é importante
+    //fazer a verificação de valor na variável?, caso contrário gera exception
+    // variavel.HasValue é a mesma coisa que  variavel != null
+    if (desejaReceberEmail.HasValue && desejaReceberEmail.Value)
+    {
+        Console.WriteLine("O usuário optou por receber e-mail");
+    }
+    else
+    {
+        Console.WriteLine("O usuário não respondeu ou optou por não responder");
+    }
+
+}
+
+void exemploDeserialize()
+{
+
+    string conteudoArquivoJson = File.ReadAllText("Assets/vendas.json");
+
+    List<Venda> listaVendas = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivoJson);
+
+    foreach (Venda venda in listaVendas)
+    {
+        Console.WriteLine
+        (
+            $"Id: {venda.Id}, " +
+            $"Produto: {venda.Produto}, " +
+            $"Preço: {venda.Preco.ToString("C2")}, " +
+            $"Data: {venda.DataVenda.ToString("dd/MM/yyy HH:mm")} " +
+            $"{(venda.Desconto.HasValue? $"Desconto: {venda.Desconto.Value.ToString("C2")}" : $"")}"
+        );
+    }
+}
+
+void exemploSerialize()
+{
+    DateTime dataAtual = DateTime.Now;
+
+    List<Venda> listaVendas = new List<Venda>();
+
+    Venda v1 = new Venda(1, "Material de escritório", 25.00M, dataAtual);
+    Venda v2 = new Venda(2, "Licença de Software", 110.00M, dataAtual);
+
+    listaVendas.Add(v1);
+    listaVendas.Add(v2);
+
+    string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented); //parse JSON
+
+    File.WriteAllText("Assets/vendas.json", serializado);
+
+    Console.WriteLine(serializado);
+}
 
 void ifTernario()
 {
@@ -31,14 +184,6 @@ void ifTernario()
     }
 }
 
-
-
-
-
-
-
-
-/*
 void ExemploDeconstruct()
 {
     Pessoa pessoa = new Pessoa("Wilson", "Brandão");
@@ -332,9 +477,5 @@ void FormatandoStrings()
     p1.Idade = 20;
     p1.Apresentar();
 }
-
-
-
-
 
 */

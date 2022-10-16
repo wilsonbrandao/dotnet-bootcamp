@@ -1,0 +1,15 @@
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\bin\Debug\net6.0\DesafioPOO.exe
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\bin\Debug\net6.0\DesafioPOO.deps.json
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\bin\Debug\net6.0\DesafioPOO.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\bin\Debug\net6.0\DesafioPOO.pdb
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\obj\Debug\net6.0\DesafioPOO.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\obj\Debug\net6.0\refint\DesafioPOO.dll
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\obj\Debug\net6.0\DesafioPOO.pdb
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+D:\Google-Drive\FACULDADE\CURSOS\8-itau-dev\CShardpDio\bootcamp-pottencial\DesafioPOO\obj\Debug\net6.0\ref\DesafioPOO.dll
